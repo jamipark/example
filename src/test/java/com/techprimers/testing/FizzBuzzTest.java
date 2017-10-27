@@ -5,7 +5,7 @@ import org.junit.jupiter.api.*;
 class FizzBuzzTest {
 
     public FizzBuzz fB;
- 
+  
     @BeforeEach
     public void setUp() {
         fB = new FizzBuzz();
