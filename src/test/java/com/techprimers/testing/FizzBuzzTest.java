@@ -10,7 +10,7 @@ class FizzBuzzTest {
     public void setUp() {
         fB = new FizzBuzz();
     }
- 
+  
     @DisplayName("Play FizzBuzz with number = 1")
     @Test
     public void testNumber() {
