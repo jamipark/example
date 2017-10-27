@@ -44,5 +44,5 @@ class FizzBuzzTest {
     public void tearDown() {
         fB = null;
     }
- 
+  
 }
